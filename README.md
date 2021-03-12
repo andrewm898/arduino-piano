@@ -10,4 +10,4 @@ Thank you to @BlackFin for helping with this amazing code!
 This uses this arduino Tone library, so you'll need to install that first. 
 https://github.com/bhagman/Tone
 
-I was usinig the ATMEGA 328 chip on my arduino and only had 2 speakers to work with, but you could definitely modify this to play more notes if you use a ATMEGA 1280
+I was using the ATMEGA 328 chip on my arduino and only had 2 speakers to work with, but you could definitely modify this to play more notes if you use a ATMEGA 1280
