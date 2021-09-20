@@ -3,10 +3,6 @@ Code to make an arduino mechanical-button piano that can play more than 1 note a
 
 *This would probably work with the capacitive touch library, I just did it mechanically bc I don't like the delay w capacitive touch*
 
-Credit where credit is due- the basis of this code was taken from a response to my question on the Arduino forums:
-https://forum.arduino.cc/index.php?topic=730600.0;topicseen
-Thank you to @BlackFin for helping with this amazing code!
-
 This uses this arduino Tone library, so you'll need to install that first. 
 https://github.com/bhagman/Tone
 
